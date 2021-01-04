@@ -582,7 +582,7 @@ section {
 }
 
 .cliens img {
-  max-width: 45%;
+  max-width: 75%;
   transition: all 0.4s ease-in-out;
   display: inline-block;
   padding: 15px 0;
@@ -1846,4 +1846,15 @@ header#header img.logoUad {
   width: 28%;
   margin-right: 180px;
 
+}
+
+
+section#cliens .align-items-center img.psikologi, img.FSBK{
+  background-color: #195e83;
+}
+
+img.FTI {
+  background-color: #eaeaea;
+  padding: 10px;
+  max-width: 100%;
 }
