@@ -1843,8 +1843,7 @@ section {
 
 
 header#header img.logoUad {
-  width: 28%;
-  margin-right: 180px;
+  max-width: 250px
 
 }
 
