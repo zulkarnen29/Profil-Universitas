@@ -1854,6 +1854,6 @@ section#cliens .align-items-center img.psikologi, img.FSBK{
 
 img.FTI {
   background-color: #eaeaea;
-  padding: 10px;
-  max-width: 100%;
+  padding         : 10px;
+  max-width       : 100%;
 }
