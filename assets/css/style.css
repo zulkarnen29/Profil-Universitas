@@ -1857,3 +1857,7 @@ img.FTI {
   padding         : 10px;
   max-width       : 100%;
 }
+
+#header img {
+  margin-right: 420px;
+}
