@@ -1861,3 +1861,11 @@ img.FTI {
 #header img {
   margin-right: 420px;
 }
+
+footer#footer {
+  background-color: #37517e;
+}
+
+footer#footer .footer-bottom {
+  padding-bottom: 0px;
+}
