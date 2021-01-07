@@ -1869,3 +1869,7 @@ footer#footer {
 footer#footer .footer-bottom {
   padding-bottom: 0px;
 }
+
+#fasilitas ul li span{
+  color: #195e83;
+}
